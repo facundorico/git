@@ -1,6 +1,7 @@
 # Comandos GIT
 
 git --version //Nos da la version de git en consola
+
 // -- viene palabra completa / - viene abreviatura
 // archivo .gitkeep se crea en un lugar donde quiero que el folder este aunque sea vacio, ej: upload
 git help // ayuda de git
